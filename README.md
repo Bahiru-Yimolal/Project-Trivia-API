@@ -387,5 +387,21 @@ Majority of the project files were created by Udacity.
 
 ## Acknowledgements 
 To all udacity teams: Code reviwers,sessions leaders and etc....
+## Project Screenshot
+![Screenshot from 2023-06-06 22-30-28](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/788b0e2e-5ed8-4867-b5ff-da02ec94b0ac)
+![Screenshot from 2023-06-06 22-30-58](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/e99fde4b-d421-454b-b504-bfa4f6cb5ba6)
+![Screenshot from 2023-06-06 22-31-37](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/a2fddd97-ea4d-43d9-972e-07d1a6a007e8)
+![Screenshot from 2023-06-06 22-31-46](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/b554e987-5e92-420f-81f2-f0f86c064fa0)
+![Screenshot from 2023-06-06 22-31-59](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/39fdadd3-ed09-4b56-a276-b78eb66374c0)
+![Screenshot from 2023-06-06 22-32-47](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/f9879f32-3be4-460c-9989-9aeb47855bf7)
+![Screenshot from 2023-06-06 22-33-05](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/c9b859ee-5730-4bd5-b59f-2a44af3010c6)
+![Screenshot from 2023-06-06 22-33-16](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/7d7c5543-46d7-4a1e-a3ce-2df6b36c645d)
+![Screenshot from 2023-06-06 22-33-47](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/f3cf50a4-3624-4378-b14f-4bcf1c70c0d0)
+![Screenshot from 2023-06-06 22-33-53](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/2b96c548-e7a2-4313-a1eb-34732449c5bd)
+![Screenshot from 2023-06-06 22-34-02](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/a62f997a-6e8a-46b4-88c7-13201238f71b)
+![Screenshot from 2023-06-06 22-34-06](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/e6d13115-99ce-49ef-83a4-391c5a2824f7)
+![Screenshot from 2023-06-06 22-34-17](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/291a47f6-4f2e-4f8a-90bd-a6b133efb825)
+![Screenshot from 2023-06-06 22-34-47](https://github.com/Bahiru-Yimolal/Project-Trivia-API/assets/88880193/e572bf2b-8c56-4f7d-8ced-6fbbbc8c58e7)
+
 
 
